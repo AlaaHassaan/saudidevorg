@@ -27,6 +27,20 @@ print(s)
 print(d)
 print(p)
 
-#use + to combine statement in output
+#use + to combine statement in output String
 v = "Alaa"
 print("my name is " + v )
+
+h="Alaa"
+k="Hassan"
+f=h+k
+print(f)
+#  + in numbers normal operation
+v=3
+t=5
+j=v+t
+print(j)
+
+#can't try to combine a string and a number in python
+u=t+h
+print(u)
