@@ -1,0 +1,6 @@
+x=int(1)
+y=int(2.8)
+g=int("2")
+print(x)
+print(y)
+print(g)
